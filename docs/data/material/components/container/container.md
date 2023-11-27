@@ -23,7 +23,7 @@ A fluid container width is bounded by the `maxWidth` prop value.
 <Container maxWidth="sm">
 ```
 
-## Fixed
+## Fixeded
 
 If you prefer to design for a fixed set of sizes instead of trying to accommodate a fully fluid viewport, you can set the `fixed` prop.
 The max-width matches the min-width of the current breakpoint.
